@@ -1,0 +1,6 @@
+select * from [page].dbo._proj where uid = 7401 and  _state in(1,2,3)
+
+select * from [1000].dbo.[7abiwnu4ifskrtwncomzev9fyhwi3iyk] where sex= 50
+
+select * form [1000].dbo.[自建表名]    where  字段名 = ""   and  in 字段 
+IN运算符允许您在WHERE子句中指定多个值。
